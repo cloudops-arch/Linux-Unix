@@ -1,0 +1,5 @@
+Git Command  Scripts
+git add --all && git commit -m "vaild msg type"
+git status - show the current status of file on file repository 
+git -log - showing logs of current status.
+git show <commit id>  -- name-only
